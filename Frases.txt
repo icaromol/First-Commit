@@ -6,4 +6,4 @@ São fornecidas instruções passo a passo para realizar essas ações, incluind
 
 O processo é descrito de forma simples e direta, facilitando a conexão entre o repositório local e remoto.
 
-Modificação 1.
+Testando o webeditor do github. Parece bacana. Para acesso em outros pcs. Mas meio legado. Poderia ser mais clean e fluido.
