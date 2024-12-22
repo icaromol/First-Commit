@@ -1,0 +1,7 @@
+Neste vídeo, aprendemos a conectar um repositório local com um repositório remoto no GitHub. 
+
+É explicado como criar um novo repositório, a importância de deixá-lo público ou privado, a função do README, gitignore e licença, e como adicionar arquivos ao repositório remoto. 
+
+São fornecidas instruções passo a passo para realizar essas ações, incluindo a criação de um README.md, o primeiro commit e o push para o repositório remoto. 
+
+O processo é descrito de forma simples e direta, facilitando a conexão entre o repositório local e remoto.
