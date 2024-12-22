@@ -5,3 +5,5 @@ Neste vídeo, aprendemos a conectar um repositório local com um repositório re
 São fornecidas instruções passo a passo para realizar essas ações, incluindo a criação de um README.md, o primeiro commit e o push para o repositório remoto. 
 
 O processo é descrito de forma simples e direta, facilitando a conexão entre o repositório local e remoto.
+
+Modificação 1.
